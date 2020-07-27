@@ -1,4 +1,4 @@
-n = int(input("Number:  "))
+n = float(input("Number:  "))
 
 if n > 0:
     print("n is positive")
